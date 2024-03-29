@@ -1,2 +1,2 @@
-# rabbitmq
-This repo is for hands on rabbitmq
+# chatbot
+This repo is for hands on chatbot using LLM's
